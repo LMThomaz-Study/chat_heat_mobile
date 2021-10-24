@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "chat_heat_mobile",
-    "slug": "chat_heat_mobile",
+    "name": "chat-heat-mobile",
+    "slug": "chat-heat-mobile",
     "version": "1.0.0",
+    "scheme": "chat-heat-mobile",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
