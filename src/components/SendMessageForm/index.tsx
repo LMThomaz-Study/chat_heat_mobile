@@ -19,7 +19,6 @@ export function SendMessageForm() {
       setMessage('');
       Keyboard.dismiss();
       setSendingMessage(false);
-      Alert.alert('Mensagem enviada com sucesso!');
     } else {
       Alert.alert('Escreva a mensagem para enviar.');
     }
